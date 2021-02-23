@@ -31,7 +31,7 @@ body {
 
 /* New overlay appearance on hover */
 .overlay-image:hover .hover {
-  opacity: 1;
+  opacity: 2;
 }
 /********* Simple or original overlay *******/
 
@@ -50,7 +50,7 @@ body {
 
 /* Original text overlay */
 .overlay-image .text {
-  color: #fff;
+  color: #808080;
   font-size: 30px;
   line-height: 1.5em;
   text-shadow: 2px 2px 2px #000;
